@@ -1,1 +1,1 @@
-This model is made for categorising raw sms data based on NLP model.
+This model is made for categorising raw sms data based on NLP CountVectorizer method and KMEans algorithms. The raw data is first cleaned using regular expressions to mask private and unnecessary information.
