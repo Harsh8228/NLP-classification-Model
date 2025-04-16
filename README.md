@@ -1,7 +1,7 @@
-#📱 SMS Message Clustering
+# SMS Clustering 
 Automatically cluster SMS messages using NLP and machine learning.
 
-#✨ Features:
+# FEatures:
 
 - Data Cleaning: Remove dates, punctuation, numbers, and emails from SMS text.
 
@@ -13,10 +13,10 @@ Automatically cluster SMS messages using NLP and machine learning.
 
 - Visualization: Dendrogram to determine optimal clusters.
 
-#🛠 Tech Stack:
+# Tech Stack:
 
 Python, Pandas, NumPy, Scikit-learn, Regex.
 
-#📊 Output:
+# Output:
 
 - Labeled SMS clusters exported to Excel.
